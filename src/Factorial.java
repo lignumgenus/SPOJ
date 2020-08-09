@@ -14,14 +14,12 @@ public class Factorial {
     }
 
     public static void main(String[] args) {
-        int testCases;
         Scanner scanner = new Scanner(System.in);
-        testCases = scanner.nextInt();
+        int testCases = scanner.nextInt();
         while (testCases > 0) {
             int N = scanner.nextInt();
-            System.out.println(N);
+            System.out.println(Z(N));
             testCases--;
-
         }
     }
 }
