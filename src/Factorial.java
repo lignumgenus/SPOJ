@@ -1,4 +1,10 @@
 import java.util.Scanner;
+/*
+ * Created on Sunday, August 9th, 2020
+ * Author : Giao Le
+ * Description : Factorial Problem on SPOJ. Have to change
+ * class name to Main when submiting solution.
+ */
 
 public class Factorial {
     public static int Z(int N) {
