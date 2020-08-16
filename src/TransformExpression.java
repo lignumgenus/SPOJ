@@ -1,6 +1,6 @@
 /*
 * Created on : Sunday, August 16, 2020
-* Author : Giao le
+* Author : Giao Le
 * */
 
 import java.util.Scanner;
