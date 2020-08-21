@@ -7,7 +7,7 @@
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class SmallFactorials {
+public class FCTRL2 {
     public static BigInteger factorials(int N) {
         BigInteger s = new BigInteger("1");
         for (int i = 2; i <= N; i++) {
