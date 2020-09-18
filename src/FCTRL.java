@@ -6,7 +6,7 @@ import java.util.Scanner;
  * class name to Main when submiting solution.
  */
 
-public class Factorial {
+public class FCTRL {
     public static int Z(int N) {
         int exponent = 1;
         int a;
