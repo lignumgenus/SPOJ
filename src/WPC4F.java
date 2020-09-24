@@ -2,6 +2,7 @@
  * Author : Giao Le
  * Created on : Friday, September 18th 2020
  * Description : It's seem to be easy to everyone but I didn't know how to solve it ^_^
+ *               Update : This solution does not pass SPOJ's limitation as Java I/O is slow
  * */
 
 import java.util.Scanner;
